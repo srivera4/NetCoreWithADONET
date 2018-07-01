@@ -1,0 +1,11 @@
+C:\Users\SamuelRiveraPrado\Documents\Visual Studio 2017\Projects\CoreWithAdo.net\CoreWithAdo.net\bin\Debug\netcoreapp2.0\CoreWithAdo.net.deps.json
+C:\Users\SamuelRiveraPrado\Documents\Visual Studio 2017\Projects\CoreWithAdo.net\CoreWithAdo.net\bin\Debug\netcoreapp2.0\CoreWithAdo.net.runtimeconfig.json
+C:\Users\SamuelRiveraPrado\Documents\Visual Studio 2017\Projects\CoreWithAdo.net\CoreWithAdo.net\bin\Debug\netcoreapp2.0\CoreWithAdo.net.runtimeconfig.dev.json
+C:\Users\SamuelRiveraPrado\Documents\Visual Studio 2017\Projects\CoreWithAdo.net\CoreWithAdo.net\bin\Debug\netcoreapp2.0\CoreWithAdo.net.dll
+C:\Users\SamuelRiveraPrado\Documents\Visual Studio 2017\Projects\CoreWithAdo.net\CoreWithAdo.net\bin\Debug\netcoreapp2.0\CoreWithAdo.net.pdb
+C:\Users\SamuelRiveraPrado\Documents\Visual Studio 2017\Projects\CoreWithAdo.net\CoreWithAdo.net\obj\Debug\netcoreapp2.0\CoreWithAdo.net.csprojAssemblyReference.cache
+C:\Users\SamuelRiveraPrado\Documents\Visual Studio 2017\Projects\CoreWithAdo.net\CoreWithAdo.net\obj\Debug\netcoreapp2.0\CoreWithAdo.net.csproj.CoreCompileInputs.cache
+C:\Users\SamuelRiveraPrado\Documents\Visual Studio 2017\Projects\CoreWithAdo.net\CoreWithAdo.net\obj\Debug\netcoreapp2.0\CoreWithAdo.net.AssemblyInfoInputs.cache
+C:\Users\SamuelRiveraPrado\Documents\Visual Studio 2017\Projects\CoreWithAdo.net\CoreWithAdo.net\obj\Debug\netcoreapp2.0\CoreWithAdo.net.AssemblyInfo.cs
+C:\Users\SamuelRiveraPrado\Documents\Visual Studio 2017\Projects\CoreWithAdo.net\CoreWithAdo.net\obj\Debug\netcoreapp2.0\CoreWithAdo.net.dll
+C:\Users\SamuelRiveraPrado\Documents\Visual Studio 2017\Projects\CoreWithAdo.net\CoreWithAdo.net\obj\Debug\netcoreapp2.0\CoreWithAdo.net.pdb
